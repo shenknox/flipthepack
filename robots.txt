@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://shenknox.github.io/flipthepack/sitemap.xml
