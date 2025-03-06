@@ -1,0 +1,14 @@
+{
+  "name": "flipthepack",
+  "version": "1.0.0",
+  "description": "Healthcare blog about food additives",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "eleventy-plugin-seo": "^0.5.2",
+    "eleventy-schema": "^1.0.0"
+  }
+}
